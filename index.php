@@ -5,7 +5,7 @@
  Sign-in form
  </title>
  </head>
- <body>
+  <body>
  <h1>Sign in to Cards application</h1>
  <table>
  <form action="login.php" method="post">
